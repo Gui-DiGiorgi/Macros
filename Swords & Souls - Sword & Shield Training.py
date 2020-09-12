@@ -2,6 +2,8 @@
 # On my case it uses a 1366x768 notebook monitor. It needs to set the browser on fullscreen and go to the top of the page for it
 # to start moving the mouse and pressing the keys
 
+# The sword training is mode 1, and the shield one is 2
+
 from PIL import ImageGrab
 import pyautogui
 from time import sleep
